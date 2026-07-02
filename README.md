@@ -60,16 +60,16 @@ Trust online is hard to verify. RepuTrack solves key industry problems:
 ## 📸 Project Previews & Diagrams
 
 ### 🖥️ Website Interface
-![RepuTrack Homepage](./screenshot/localhost_8080_.png)
+![RepuTrack Homepage](screenshot/homepage.png)
 
 ### 📊 Platform Concept & Diagram
-![RepuTrack Concept](./screenshot/Capture%20d’écran%202025-12-10%20201312.jpg)
+![RepuTrack Concept](screenshot/concept.jpg)
 
 ### 👥 Customer Use Case
-![Customer Use Case](./screenshot/Use%20-case%20%20customer.jpg)
+![Customer Use Case](screenshot/use-case-customer.jpg)
 
 ### 🔐 Admin Use Case
-![Admin Use Case](./screenshot/Use-case%20Admin.jpg)
+![Admin Use Case](screenshot/use-case-admin.jpg)
 
 ---
 
