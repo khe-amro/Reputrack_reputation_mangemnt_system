@@ -62,14 +62,6 @@ Trust online is hard to verify. RepuTrack solves key industry problems:
 ### 🖥️ Website Interface
 ![RepuTrack Homepage](screenshot/homepage.png)
 
-### 📊 Platform Concept & Diagram
-![RepuTrack Concept](screenshot/concept.jpg)
-
-### 👥 Customer Use Case
-![Customer Use Case](screenshot/use-case-customer.jpg)
-
-### 🔐 Admin Use Case
-![Admin Use Case](screenshot/use-case-admin.jpg)
 
 ---
 
